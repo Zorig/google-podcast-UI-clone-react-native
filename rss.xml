@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
+    <channel>
+        <title>
+            <![CDATA[Dev Note Podcast]]>
+        </title>
+        <description>
+            <![CDATA[Програм хангамж хѳгжүүлэлт, вэб хѳгжүүлэлтийн талаарх подкаст]]>
+        </description>
+        <link>https://anchor.fm/devnote</link>
+        <image>
+            <url>https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/2229322/2229322-1567251243786-76dd5043f99e3.jpg</url>
+            <title>Dev Note Podcast</title>
+            <link>https://anchor.fm/devnote</link>
+        </image>
+        <generator>Anchor Podcasts</generator>
+        <lastBuildDate>Fri, 29 Jan 2021 03:08:23 GMT</lastBuildDate>
+        <atom:link href="https://anchor.fm/s/de24368/podcast/rss" rel="self" type="application/rss+xml" />
+        <author>
+            <![CDATA[zorig]]>
+        </author>
+        <copyright>
+            <![CDATA[zorig]]>
+        </copyright>
+        <language>
+            <![CDATA[mn]]>
+        </language>
+        <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
+        <itunes:author>zorig</itunes:author>
+        <itunes:summary>Програм хангамж хѳгжүүлэлт, вэб хѳгжүүлэлтийн талаарх подкаст</itunes:summary>
+        <itunes:type>episodic</itunes:type>
+        <itunes:owner>
+            <itunes:name>zorig</itunes:name>
+            <itunes:email>podcasts44+de24368@anchor.fm</itunes:email>
+        </itunes:owner>
+        <itunes:explicit>No</itunes:explicit>
+        <itunes:category text="Technology" />
+        <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/2229322/2229322-1567251243786-76dd5043f99e3.jpg" />
+        <item>
+            <title>
+                <![CDATA[#9 2020 анхны дугаар, React асуулт хариулт]]>
+            </title>
+            <description>
+                <![CDATA[<p>Сайн байцгаана уу?, 2020 оны анхны дугаар маань орлоо. Бага зэргийн техникийн саатал гарсанд урьдчилаад хүлцэл ѳчье 🙏. Энэ дугаартаа <a href="https://www.facebook.com/devnotepodcast">FB page</a> болон<a href="https://www.facebook.com/groups/reactjs.mongolia">Reactjs хѳгжүүлэгчдийн групп</a> дээрх асуултуудад хариулах гэж хичээлээ.&nbsp;</p>
+]]>
+            </description>
+            <link>https://anchor.fm/devnote/episodes/9-2020----React-ect70f</link>
+            <guid isPermaLink="false">daff8dda-438c-4ef2-adc8-d88eb5a42c18</guid>
+            <dc:creator>
+                <![CDATA[zorig]]>
+            </dc:creator>
+            <pubDate>Fri, 17 Apr 2020 11:00:00 GMT</pubDate>
+            <enclosure url="https://anchor.fm/s/de24368/podcast/play/12540367/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-3-17%2F65263498-44100-2-ba63ce8f860a8.mp3" length="82082922" type="audio/mpeg" />
+            <itunes:summary>&lt;p&gt;Сайн байцгаана уу?, 2020 оны анхны дугаар маань орлоо. Бага зэргийн техникийн саатал гарсанд урьдчилаад хүлцэл ѳчье 🙏. Энэ дугаартаа &lt;a href=&quot;https://www.facebook.com/devnotepodcast&quot;&gt;FB page&lt;/a&gt; болон &lt;a href=&quot;https://www.facebook.com/groups/reactjs.mongolia&quot;&gt;Reactjs хѳгжүүлэгчдийн групп&lt;/a&gt; дээрх асуултуудад хариулах гэж хичээлээ.&amp;nbsp;&lt;/p&gt;
+</itunes:summary>
+            <itunes:explicit>No</itunes:explicit>
+            <itunes:duration>3419</itunes:duration>
+            <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/2229322/2229322-1567251243786-76dd5043f99e3.jpg" />
+            <itunes:season>1</itunes:season>
+            <itunes:episode>9</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <item>
+            <title>
+                <![CDATA[#8 Java eco system, cloud, microservices, serverless, ажлын ярицлаганд юу анхаарах вэ?]]>
+            </title>
+            <description>
+                <![CDATA[<p>Энэ удаагийн дугаарт 19 жилийн ажлын туршлагатай мэргэжилтэн &nbsp;<a href="https://www.facebook.com/rentsen.batzorigt">Батзориг</a> -тэй ярилцаж түүний туршлага, мѳн хамгийн түгээмэл програмийн хэл болох жава -ын талаар ярилцаж, жава -ын ирээдүй ер нь хаашаа эргэсэн бэ? Хѳгжил нь цаашдаа яаж явах вэ, мѳн тренд болоод буй технологиуд болох<strong>Cloud, Microservices, serverless</strong>, ажлын ярилцлагад юуг анхаарах ёстой, хаана алддаг талаар хѳѳрѳлдлѳѳ.</p><p><a href="https://itunes.apple.com/us/podcast/dev-note-podcast/id1455454993?mt=2" rel="ugc" target="_blank">Apple podcast</a> |<a href="https://www.google.com/podcasts?feed=aHR0cHM6Ly9wb2RjYXN0Lnh5eXAuYXBwL2Rldi1ub3RlL2ZlZWRz" rel="ugc" target="_blank">Google Podcasts</a> |<a href="https://open.spotify.com/show/5C5urCAsdXGE0KMNo6rY6h" rel="ugc" target="_blank">Spotify</a> |<a href="https://www.stitcher.com/s?fid=380783" rel="ugc" target="_blank">Stitcher</a> |<a href="https://castbox.fm/channel/id2045239" rel="ugc" target="_blank">Castbox</a></p>
+]]>
+            </description>
+            <link>https://anchor.fm/devnote/episodes/8-Java-eco-system--cloud--microservices--serverless-e6crv0</link>
+            <guid isPermaLink="false">f70138bd-aa69-fa67-861d-090e35a165b0</guid>
+            <dc:creator>
+                <![CDATA[zorig]]>
+            </dc:creator>
+            <pubDate>Mon, 07 Oct 2019 04:15:36 GMT</pubDate>
+            <enclosure url="https://anchor.fm/s/de24368/podcast/play/5713312/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-9-7%2F26996924-44100-2-e89d35345886c.mp3" length="140980480" type="audio/mpeg" />
+            <itunes:summary>&lt;p&gt;Энэ удаагийн дугаарт 19 жилийн ажлын туршлагатай мэргэжилтэн &amp;nbsp;&lt;a href=&quot;https://www.facebook.com/rentsen.batzorigt&quot;&gt;Батзориг&lt;/a&gt; -тэй ярилцаж түүний туршлага, мѳн хамгийн түгээмэл програмийн хэл болох жава -ын талаар ярилцаж, жава -ын ирээдүй ер нь хаашаа эргэсэн бэ? Хѳгжил нь цаашдаа яаж явах вэ, мѳн тренд болоод буй технологиуд болох &lt;strong&gt;Cloud, Microservices, serverless&lt;/strong&gt;, ажлын ярилцлагад юуг анхаарах ёстой, хаана алддаг талаар хѳѳрѳлдлѳѳ.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/us/podcast/dev-note-podcast/id1455454993?mt=2&quot; rel=&quot;ugc&quot; target=&quot;_blank&quot;&gt;Apple podcast&lt;/a&gt; | &lt;a href=&quot;https://www.google.com/podcasts?feed=aHR0cHM6Ly9wb2RjYXN0Lnh5eXAuYXBwL2Rldi1ub3RlL2ZlZWRz&quot; rel=&quot;ugc&quot; target=&quot;_blank&quot;&gt;Google Podcasts&lt;/a&gt; | &lt;a href=&quot;https://open.spotify.com/show/5C5urCAsdXGE0KMNo6rY6h&quot; rel=&quot;ugc&quot; target=&quot;_blank&quot;&gt;Spotify&lt;/a&gt; | &lt;a href=&quot;https://www.stitcher.com/s?fid=380783&quot; rel=&quot;ugc&quot; target=&quot;_blank&quot;&gt;Stitcher&lt;/a&gt; | &lt;a href=&quot;https://castbox.fm/channel/id2045239&quot; rel=&quot;ugc&quot; target=&quot;_blank&quot;&gt;Castbox&lt;/a&gt;&lt;/p&gt;
+</itunes:summary>
+            <itunes:explicit>No</itunes:explicit>
+            <itunes:duration>8811</itunes:duration>
+            <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/2229322/2229322-1567251243786-76dd5043f99e3.jpg" />
+            <itunes:season>1</itunes:season>
+            <itunes:episode>8</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <item>
+            <title>
+                <![CDATA[#7 Мэдээллийн аюулгүй байдал, нууцлал хамгаалaл, MNSEC, MNCERT, Харуул занги]]>
+            </title>
+            <description>
+                <![CDATA[<p>Зун дуусч бүгдээрээ амралт mode-оос ажил mode-руу орцгоосон биз ээ. Түр хугацаанд амарсан подкаст маань Мэдээллийн аюулгүй байдал, нууцлал хамгааллын сэдвээр одоогоор хамгийн олон зочинтой дугаараа бичлээ.</p><p><a href="https://mncert.org">MNCERT веб сайт</a><br><br><a href="https://mncert.org/mnsec/register">MNSEC бүртгэл<br></a><br><a href="http://www.haruulzangi.mn">Харуул занги бүртгэл</a></p>
+]]>
+            </description>
+            <link>https://anchor.fm/devnote/episodes/7------a--MNSEC--MNCERT-e560cl</link>
+            <guid isPermaLink="false">78c1265e-acaf-9aa4-37bf-bc4d4228bc24</guid>
+            <dc:creator>
+                <![CDATA[zorig]]>
+            </dc:creator>
+            <pubDate>Sat, 31 Aug 2019 11:40:17 GMT</pubDate>
+            <enclosure url="https://anchor.fm/s/de24368/podcast/play/4439893/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-7-31%2F22171218-44100-2-9d98986727154.mp3" length="60613196" type="audio/mpeg" />
+            <itunes:summary>&lt;p&gt;Зун дуусч бүгдээрээ амралт mode-оос ажил mode-руу орцгоосон биз ээ. Түр хугацаанд амарсан подкаст маань Мэдээллийн аюулгүй байдал, нууцлал хамгааллын сэдвээр одоогоор хамгийн олон зочинтой дугаараа бичлээ.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://mncert.org&quot;&gt;MNCERT веб сайт&lt;/a&gt;&lt;br&gt;
+&lt;br&gt;
+&lt;a href=&quot;https://mncert.org/mnsec/register&quot;&gt;MNSEC бүртгэл&lt;br&gt;
+&lt;/a&gt;&lt;br&gt;
+&lt;a href=&quot;http://www.haruulzangi.mn&quot;&gt;Харуул занги бүртгэл&lt;/a&gt;&lt;/p&gt;
+</itunes:summary>
+            <itunes:explicit>No</itunes:explicit>
+            <itunes:duration>3788</itunes:duration>
+            <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/2229322/2229322-1567251243786-76dd5043f99e3.jpg" />
+            <itunes:season>1</itunes:season>
+            <itunes:episode>7</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <item>
+            <title>
+                <![CDATA[#6 Devsummit, F8, GoogleIO, Microsoft BUILD]]>
+            </title>
+            <description>
+                <![CDATA[<p>Энэ удаагийн дугаарт технологийн салбарт болж буй хурал, танилцуулгууд, технологийн салбарт ямар шинэ технологиуд танилцуулагдсан бэ?, ямар шинэ боломжууд бидэнд гарч ирсэн бэ гэх зэрэг зүйлсийг ярилцлаа.</p><p><a href="https://itunes.apple.com/us/podcast/dev-note-podcast/id1455454993?mt=2">Apple podcast</a> |<a href="https://www.google.com/podcasts?feed=aHR0cHM6Ly9wb2RjYXN0Lnh5eXAuYXBwL2Rldi1ub3RlL2ZlZWRz">Google Podcasts</a> |<a href="https://open.spotify.com/show/5C5urCAsdXGE0KMNo6rY6h">Spotify</a> |<a href="https://www.stitcher.com/s?fid=380783">Stitcher</a> |<a href="https://castbox.fm/channel/id2045239">Castbox</a></p><ol><li>GoogleIO</li><li>Facebook F8</li><li>Microsoft BUILD</li><li>Devsummit</li><li>Pycon</li><li>Red hat summit</li></ol>
+]]>
+            </description>
+            <link>https://anchor.fm/devnote/episodes/6-Devsummit--F8--GoogleIO--Microsoft-BUILD-e560bm</link>
+            <guid isPermaLink="false">977baa9d-66c8-46e5-a02c-e2d0a465eb54</guid>
+            <dc:creator>
+                <![CDATA[zorig]]>
+            </dc:creator>
+            <pubDate>Fri, 10 May 2019 12:29:53 GMT</pubDate>
+            <enclosure url="https://anchor.fm/s/de24368/podcast/play/4439862/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-7-31%2F22171133-44100-2-1244af2c1fb1c.mp3" length="85532339" type="audio/mpeg" />
+            <itunes:summary>&lt;p&gt;Энэ удаагийн дугаарт технологийн салбарт болж буй хурал, танилцуулгууд, технологийн салбарт ямар шинэ технологиуд танилцуулагдсан бэ?, ямар шинэ боломжууд бидэнд гарч ирсэн бэ гэх зэрэг зүйлсийг ярилцлаа.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/us/podcast/dev-note-podcast/id1455454993?mt=2&quot;&gt;Apple podcast&lt;/a&gt; | &lt;a href=&quot;https://www.google.com/podcasts?feed=aHR0cHM6Ly9wb2RjYXN0Lnh5eXAuYXBwL2Rldi1ub3RlL2ZlZWRz&quot;&gt;Google Podcasts&lt;/a&gt; |
+&lt;a href=&quot;https://open.spotify.com/show/5C5urCAsdXGE0KMNo6rY6h&quot;&gt;Spotify&lt;/a&gt; | &lt;a href=&quot;https://www.stitcher.com/s?fid=380783&quot;&gt;Stitcher&lt;/a&gt; | &lt;a href=&quot;https://castbox.fm/channel/id2045239&quot;&gt;Castbox&lt;/a&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;GoogleIO&lt;/li&gt;
+&lt;li&gt;Facebook F8&lt;/li&gt;
+&lt;li&gt;Microsoft BUILD&lt;/li&gt;
+&lt;li&gt;Devsummit&lt;/li&gt;
+&lt;li&gt;Pycon&lt;/li&gt;
+&lt;li&gt;Red hat summit&lt;/li&gt;
+&lt;/ol&gt;
+</itunes:summary>
+            <itunes:explicit>No</itunes:explicit>
+            <itunes:duration>3564</itunes:duration>
+            <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/2229322/2229322-1567251243786-76dd5043f99e3.jpg" />
+            <itunes:season>1</itunes:season>
+            <itunes:episode>6</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <item>
+            <title>
+                <![CDATA[#5 20 жилийн туршлага + GraphQL зочин У.Оргил]]>
+            </title>
+            <description>
+                <![CDATA[<p>Энэ удаагийн дугаар маань манай хамгийн анхны зочинтой дугаар байгаа. Зочин <a href="https://www.facebook.com/orgil.urtnasan">Оргил</a>-доо програмын салбарт хэрхэн хөл тавьсан, яаж юм сурсан зэрэг мэдлэгээсээ гамгүй хуваалцсанд баярлалаа.</p><ol><li>Програмчлал хэрхэн сурах вэ? 20 жилийн туршлагаас хариулахад</li><li>GraphQL гэж юу вэ? ямар давуу талтай вэ?, гол зүйлс</li></ol><p>Ta бүхэн санал хүсэлтээ сэтгэгдлээр эсвэл манай facebook хуудсаар холбогдож илгээгээрэй. Мѳн доорхи платформуудаас сонсох боломжтой.</p><p><a href="https://itunes.apple.com/us/podcast/dev-note-podcast/id1455454993?mt=2">Apple podcast</a> |<a href="https://www.google.com/podcasts?feed=aHR0cHM6Ly9wb2RjYXN0Lnh5eXAuYXBwL2Rldi1ub3RlL2ZlZWRz">Google Podcasts</a> |<a href="https://open.spotify.com/show/5C5urCAsdXGE0KMNo6rY6h">Spotify</a> |<a href="https://www.stitcher.com/s?fid=380783">Stitcher</a> |<a href="https://castbox.fm/channel/id2045239">Castbox</a></p>
+]]>
+            </description>
+            <link>https://anchor.fm/devnote/episodes/5-20----GraphQL-e560bn</link>
+            <guid isPermaLink="false">0948f588-7eec-45b5-a494-ebcd185d5596</guid>
+            <dc:creator>
+                <![CDATA[zorig]]>
+            </dc:creator>
+            <pubDate>Sun, 05 May 2019 22:58:17 GMT</pubDate>
+            <enclosure url="https://anchor.fm/s/de24368/podcast/play/4439863/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-7-31%2F22171134-44100-2-3cf8a12b1036f.mp3" length="121480954" type="audio/mpeg" />
+            <itunes:summary>&lt;p&gt;Энэ удаагийн дугаар маань манай хамгийн анхны зочинтой дугаар байгаа. Зочин &lt;a href=&quot;https://www.facebook.com/orgil.urtnasan&quot;&gt;Оргил&lt;/a&gt;-доо програмын салбарт хэрхэн хөл тавьсан, яаж юм сурсан зэрэг мэдлэгээсээ гамгүй хуваалцсанд баярлалаа.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Програмчлал хэрхэн сурах вэ? 20 жилийн туршлагаас хариулахад&lt;/li&gt;
+&lt;li&gt;GraphQL гэж юу вэ? ямар давуу талтай вэ?, гол зүйлс&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Ta бүхэн санал хүсэлтээ сэтгэгдлээр эсвэл манай facebook хуудсаар холбогдож илгээгээрэй. Мѳн доорхи платформуудаас сонсох боломжтой.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/us/podcast/dev-note-podcast/id1455454993?mt=2&quot;&gt;Apple podcast&lt;/a&gt; | &lt;a href=&quot;https://www.google.com/podcasts?feed=aHR0cHM6Ly9wb2RjYXN0Lnh5eXAuYXBwL2Rldi1ub3RlL2ZlZWRz&quot;&gt;Google Podcasts&lt;/a&gt; |
+&lt;a href=&quot;https://open.spotify.com/show/5C5urCAsdXGE0KMNo6rY6h&quot;&gt;Spotify&lt;/a&gt; | &lt;a href=&quot;https://www.stitcher.com/s?fid=380783&quot;&gt;Stitcher&lt;/a&gt; | &lt;a href=&quot;https://castbox.fm/channel/id2045239&quot;&gt;Castbox&lt;/a&gt;&lt;/p&gt;
+</itunes:summary>
+            <itunes:explicit>Yes</itunes:explicit>
+            <itunes:duration>8716</itunes:duration>
+            <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/2229322/2229322-1567251243786-76dd5043f99e3.jpg" />
+            <itunes:season>1</itunes:season>
+            <itunes:episode>5</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <item>
+            <title>
+                <![CDATA[#4 Reactjs]]>
+            </title>
+            <description>
+                <![CDATA[<p>"Reactjs" -ын талаар сонсогчдоос авсан санал, асуултын дагуу ярилцлаа. Ta бүхэн санал хүсэлтээ сэтгэгдлээр эсвэл манай facebook хуудсаар холбогдож илгээгээрэй. Мѳн доорхи платформуудаас сонсох боломжтой.</p><p><a href="https://itunes.apple.com/us/podcast/dev-note-podcast/id1455454993?mt=2">Apple podcast</a> |<a href="https://www.google.com/podcasts?feed=aHR0cHM6Ly9wb2RjYXN0Lnh5eXAuYXBwL2Rldi1ub3RlL2ZlZWRz">Google Podcasts</a> |<a href="https://open.spotify.com/show/5C5urCAsdXGE0KMNo6rY6h">Spotify</a> |<a href="https://www.stitcher.com/s?fid=380783">Stitcher</a> |<a href="https://castbox.fm/channel/id2045239">Castbox</a></p><p><strong>Подкаст дээр дурьдагдсан зүйлс:</strong></p><ul><li><a href="https://reactjs.org">Reactjs</a></li><li><a href="https://emberjs.com">Emberjs</a></li><li><a href="https://angularjs.org">Angularjs</a></li><li><a href="http://jquery.com/">Jquery</a></li><li><a href="https://backbonejs.org/">Backbonejs</a></li><li><a href="https://github.com/facebook/create-react-app">Create react app</a></li><li><a href="https://babeljs.io/">Babel</a></li><li><a href="https://redux.js.org/">redux</a></li><li><a href="http://nextjs.org">nextjs</a></li><li><a href="https://gatsbyjs.org">gatsby</a></li></ul>
+]]>
+            </description>
+            <link>https://anchor.fm/devnote/episodes/4-Reactjs-e560bo</link>
+            <guid isPermaLink="false">ff9ed795-a17c-4d0f-a5ca-c377c0dc79d6</guid>
+            <dc:creator>
+                <![CDATA[zorig]]>
+            </dc:creator>
+            <pubDate>Sat, 06 Apr 2019 00:10:30 GMT</pubDate>
+            <enclosure url="https://anchor.fm/s/de24368/podcast/play/4439864/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-7-31%2F22171135-44100-2-6dbf2f2238cf2.mp3" length="104516731" type="audio/mpeg" />
+            <itunes:summary>&lt;p&gt;&quot;Reactjs&quot; -ын талаар сонсогчдоос авсан санал, асуултын дагуу ярилцлаа. Ta бүхэн санал хүсэлтээ сэтгэгдлээр эсвэл манай facebook хуудсаар холбогдож илгээгээрэй. Мѳн доорхи платформуудаас сонсох боломжтой.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/us/podcast/dev-note-podcast/id1455454993?mt=2&quot;&gt;Apple podcast&lt;/a&gt; | &lt;a href=&quot;https://www.google.com/podcasts?feed=aHR0cHM6Ly9wb2RjYXN0Lnh5eXAuYXBwL2Rldi1ub3RlL2ZlZWRz&quot;&gt;Google Podcasts&lt;/a&gt; |
+&lt;a href=&quot;https://open.spotify.com/show/5C5urCAsdXGE0KMNo6rY6h&quot;&gt;Spotify&lt;/a&gt; | &lt;a href=&quot;https://www.stitcher.com/s?fid=380783&quot;&gt;Stitcher&lt;/a&gt; | &lt;a href=&quot;https://castbox.fm/channel/id2045239&quot;&gt;Castbox&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Подкаст дээр дурьдагдсан зүйлс:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://reactjs.org&quot;&gt;Reactjs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://emberjs.com&quot;&gt;Emberjs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://angularjs.org&quot;&gt;Angularjs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://jquery.com/&quot;&gt;Jquery&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://backbonejs.org/&quot;&gt;Backbonejs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/facebook/create-react-app&quot;&gt;Create react app&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://babeljs.io/&quot;&gt;Babel&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://redux.js.org/&quot;&gt;redux&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://nextjs.org&quot;&gt;nextjs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://gatsbyjs.org&quot;&gt;gatsby&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+            <itunes:explicit>No</itunes:explicit>
+            <itunes:duration>5767</itunes:duration>
+            <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/2229322/2229322-1567251243786-76dd5043f99e3.jpg" />
+            <itunes:season>1</itunes:season>
+            <itunes:episode>4</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <item>
+            <title>
+                <![CDATA[#3 Typescript, React Native]]>
+            </title>
+            <description>
+                <![CDATA[<p>Энэ удаагийн дугаарт github-ын топ төслүүдийн нэг typescript мөн апп хөгжүүлэлтийн топ төсөл болох React Native -ын талаар ярилцлаа.</p><ol><li>Typescript</li><li>ReactNative </li></ol><p>Ta бүхэн санал хүсэлтээ сэтгэгдлээр эсвэл манай facebook хуудсаар холбогдож илгээгээрэй. Мѳн доорхи платформуудаас сонсох боломжтой.</p><p><a href="https://itunes.apple.com/us/podcast/dev-note-podcast/id1455454993?mt=2">Apple podcast</a> |<a href="https://www.google.com/podcasts?feed=aHR0cHM6Ly9wb2RjYXN0Lnh5eXAuYXBwL2Rldi1ub3RlL2ZlZWRz">Google Podcasts</a> |<a href="https://open.spotify.com/show/5C5urCAsdXGE0KMNo6rY6h">Spotify</a> |<a href="https://www.stitcher.com/s?fid=380783">Stitcher</a> |<a href="https://castbox.fm/channel/id2045239">Castbox</a></p><hr /><p>Жич: Оффис дээр хажуу ѳрѳѳнд засвар хийж байсан тул бага зэрэг шум орсонд хүлцэл ѳчье.</p>
+]]>
+            </description>
+            <link>https://anchor.fm/devnote/episodes/3-Typescript--React-Native-e560bp</link>
+            <guid isPermaLink="false">e4e7277f-42d9-478d-8801-3a059025e10b</guid>
+            <dc:creator>
+                <![CDATA[zorig]]>
+            </dc:creator>
+            <pubDate>Tue, 02 Apr 2019 11:53:07 GMT</pubDate>
+            <enclosure url="https://anchor.fm/s/de24368/podcast/play/4439865/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-7-31%2F22171136-44100-2-f9dd7405df5ce.mp3" length="73738368" type="audio/mpeg" />
+            <itunes:summary>&lt;p&gt;Энэ удаагийн дугаарт github-ын топ төслүүдийн нэг typescript мөн апп хөгжүүлэлтийн топ төсөл болох React Native -ын талаар ярилцлаа.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Typescript&lt;/li&gt;
+&lt;li&gt;ReactNative &lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Ta бүхэн санал хүсэлтээ сэтгэгдлээр эсвэл манай facebook хуудсаар холбогдож илгээгээрэй. Мѳн доорхи платформуудаас сонсох боломжтой.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/us/podcast/dev-note-podcast/id1455454993?mt=2&quot;&gt;Apple podcast&lt;/a&gt; | &lt;a href=&quot;https://www.google.com/podcasts?feed=aHR0cHM6Ly9wb2RjYXN0Lnh5eXAuYXBwL2Rldi1ub3RlL2ZlZWRz&quot;&gt;Google Podcasts&lt;/a&gt; |
+&lt;a href=&quot;https://open.spotify.com/show/5C5urCAsdXGE0KMNo6rY6h&quot;&gt;Spotify&lt;/a&gt; | &lt;a href=&quot;https://www.stitcher.com/s?fid=380783&quot;&gt;Stitcher&lt;/a&gt; | &lt;a href=&quot;https://castbox.fm/channel/id2045239&quot;&gt;Castbox&lt;/a&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;Жич: Оффис дээр хажуу ѳрѳѳнд засвар хийж байсан тул бага зэрэг шум орсонд хүлцэл ѳчье.&lt;/p&gt;
+</itunes:summary>
+            <itunes:explicit>No</itunes:explicit>
+            <itunes:duration>4560</itunes:duration>
+            <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/2229322/2229322-1567251243786-76dd5043f99e3.jpg" />
+            <itunes:season>1</itunes:season>
+            <itunes:episode>3</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <item>
+            <title>
+                <![CDATA[#2 PWA, Нээлттэй эхийн програм хангамж]]>
+            </title>
+            <description>
+                <![CDATA[<ol><li><strong>"Progressive Web App"</strong> гэж юу вэ?, давуу тал, шинээр юу нэмэгдсэн, ямар боломжуудтай вэ?</li><li><strong>"Нээлттэй эхийн програм хангамж"</strong> гэж юу вэ? ямар ач тустай вэ?, хэрхэн оролцох вэ?</li></ol><p>Ta бүхэн санал хүсэлтээ сэтгэгдлээр эсвэл манай facebook хуудсаар холбогдож илгээгээрэй. Мѳн доорхи платформуудаас сонсох боломжтой.</p><p><a href="https://itunes.apple.com/us/podcast/dev-note-podcast/id1455454993?mt=2">Apple podcast</a> |<a href="https://www.google.com/podcasts?feed=aHR0cHM6Ly9wb2RjYXN0Lnh5eXAuYXBwL2Rldi1ub3RlL2ZlZWRz">Google Podcasts</a> |<a href="https://open.spotify.com/show/5C5urCAsdXGE0KMNo6rY6h">Spotify</a> |<a href="https://www.stitcher.com/s?fid=380783">Stitcher</a> |<a href="https://castbox.fm/channel/id2045239">Castbox</a></p><hr /><p><strong>Подкаст дээр дурьдагдсан зүйлс:</strong></p><ul><li><a href="https://developers.google.com/web/progressive-web-apps/">PWA</a></li><li><a href="https://mn.wikipedia.org/wiki/%D0%9D%D1%8D%D1%8D%D0%BB%D1%82%D1%82%D1%8D%D0%B9_%D0%B1%D0%B0_%D1%87%D3%A9%D0%BB%D3%A9%D3%A9%D1%82_%D1%8D%D1%85%D0%B8%D0%B9%D0%BD_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC_%D1%85%D0%B0%D0%BD%D0%B3%D0%B0%D0%BC%D0%B6">Нээлттэй эхийн програм хангамж</a></li><li><a href="https://www.youtube.com/watch?v=ksWDVurubwE">Chrome 73</a></li><li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox">Flexbox</a></li><li><a href="https://www.gnome.org/">Gnome</a></li><li><a href="http://transifex.com/">Transifex</a></li><li><a href="http://www.fullstackradio.com/">FullStackRadio podcast</a></li><li><a href="https://www.acquired.fm/episodes/instagram-revisited-with-emily-white">Acquired - Instagram Revisited</a></li></ul>
+]]>
+            </description>
+            <link>https://anchor.fm/devnote/episodes/2-PWA-e560bq</link>
+            <guid isPermaLink="false">d7d715a5-3951-4260-992d-0e8bfe9d9f65</guid>
+            <dc:creator>
+                <![CDATA[zorig]]>
+            </dc:creator>
+            <pubDate>Thu, 14 Mar 2019 16:37:58 GMT</pubDate>
+            <enclosure url="https://anchor.fm/s/de24368/podcast/play/4439866/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-7-31%2F22171137-44100-2-0ef7e9b601e49.mp3" length="129865061" type="audio/mpeg" />
+            <itunes:summary>&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;&quot;Progressive Web App&quot;&lt;/strong&gt; гэж юу вэ?, давуу тал, шинээр юу нэмэгдсэн, ямар боломжуудтай вэ?&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&quot;Нээлттэй эхийн програм хангамж&quot;&lt;/strong&gt; гэж юу вэ? ямар ач тустай вэ?, хэрхэн оролцох вэ?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Ta бүхэн санал хүсэлтээ сэтгэгдлээр эсвэл манай facebook хуудсаар холбогдож илгээгээрэй. Мѳн доорхи платформуудаас сонсох боломжтой.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/us/podcast/dev-note-podcast/id1455454993?mt=2&quot;&gt;Apple podcast&lt;/a&gt; | &lt;a href=&quot;https://www.google.com/podcasts?feed=aHR0cHM6Ly9wb2RjYXN0Lnh5eXAuYXBwL2Rldi1ub3RlL2ZlZWRz&quot;&gt;Google Podcasts&lt;/a&gt; |
+&lt;a href=&quot;https://open.spotify.com/show/5C5urCAsdXGE0KMNo6rY6h&quot;&gt;Spotify&lt;/a&gt; | &lt;a href=&quot;https://www.stitcher.com/s?fid=380783&quot;&gt;Stitcher&lt;/a&gt; | &lt;a href=&quot;https://castbox.fm/channel/id2045239&quot;&gt;Castbox&lt;/a&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;Подкаст дээр дурьдагдсан зүйлс:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://developers.google.com/web/progressive-web-apps/&quot;&gt;PWA&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://mn.wikipedia.org/wiki/%D0%9D%D1%8D%D1%8D%D0%BB%D1%82%D1%82%D1%8D%D0%B9_%D0%B1%D0%B0_%D1%87%D3%A9%D0%BB%D3%A9%D3%A9%D1%82_%D1%8D%D1%85%D0%B8%D0%B9%D0%BD_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC_%D1%85%D0%B0%D0%BD%D0%B3%D0%B0%D0%BC%D0%B6&quot;&gt;Нээлттэй эхийн програм хангамж&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=ksWDVurubwE&quot;&gt;Chrome 73&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox&quot;&gt;Flexbox&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gnome.org/&quot;&gt;Gnome&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://transifex.com/&quot;&gt;Transifex&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.fullstackradio.com/&quot;&gt;FullStackRadio podcast&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.acquired.fm/episodes/instagram-revisited-with-emily-white&quot;&gt;Acquired - Instagram Revisited&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+            <itunes:explicit>No</itunes:explicit>
+            <itunes:duration>5411</itunes:duration>
+            <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/2229322/2229322-1567251243786-76dd5043f99e3.jpg" />
+        </item>
+        <item>
+            <title>
+                <![CDATA[#1 Програмчлалын хэл, SPA]]>
+            </title>
+            <description>
+                <![CDATA[<p><strong>"Dev Note"</strong> подкаст эхний дугаар. Ta бүхэн санал хүсэлтээ сэтгэгдлээр эсвэл манай facebook хуудсаар холбогдож илгээгээрэй. Мѳн доорхи платформуудаас сонсох боломжтой.</p><p><a href="https://itunes.apple.com/us/podcast/dev-note-podcast/id1455454993?mt=2">Apple podcast</a> |<a href="https://www.google.com/podcasts?feed=aHR0cHM6Ly9wb2RjYXN0Lnh5eXAuYXBwL2Rldi1ub3RlL2ZlZWRz">Google Podcasts</a> |<a href="https://open.spotify.com/show/5C5urCAsdXGE0KMNo6rY6h">Spotify</a> |<a href="https://www.stitcher.com/s?fid=380783">Stitcher</a></p><hr /><p><strong>Подкаст дээр дурьдагдсан зүйлс:</strong></p><ul><li><a href="https://www.python.org/">Python programming language</a></li><li><a href="https://code.visualstudio.com">vscode</a></li><li><a href="https://prettier.io/">prettier</a></li><li><a href="https://en.wikipedia.org/wiki/Single-page_application">SPA</a></li><li><a href="https://eslint.org/">eslint</a></li><li><a href="https://www.typescriptlang.org/">typescript</a></li><li><a href="http://nextjs.org">nextjs</a></li><li><a href="https://v8.dev/">v8</a></li><li><a href="https://developer.mozilla.org/en-US/docs/Web/API/History">History API</a></li><li><a href="https://developers.google.com/web/fundamentals/primers/service-workers/">Service Worker</a></li></ul>
+]]>
+            </description>
+            <link>https://anchor.fm/devnote/episodes/1----SPA-e560br</link>
+            <guid isPermaLink="false">1d5a055c-e4ec-481b-82bf-49795efc4a2a</guid>
+            <dc:creator>
+                <![CDATA[zorig]]>
+            </dc:creator>
+            <pubDate>Thu, 07 Mar 2019 12:37:12 GMT</pubDate>
+            <enclosure url="https://anchor.fm/s/de24368/podcast/play/4439867/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-7-31%2F22171138-44100-2-49fbaba68ecc.mp3" length="55096970" type="audio/mpeg" />
+            <itunes:summary>&lt;p&gt;&lt;strong&gt;&quot;Dev Note&quot;&lt;/strong&gt; подкаст эхний дугаар. Ta бүхэн санал хүсэлтээ сэтгэгдлээр эсвэл манай facebook хуудсаар холбогдож илгээгээрэй. Мѳн доорхи платформуудаас сонсох боломжтой.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://itunes.apple.com/us/podcast/dev-note-podcast/id1455454993?mt=2&quot;&gt;Apple podcast&lt;/a&gt; | &lt;a href=&quot;https://www.google.com/podcasts?feed=aHR0cHM6Ly9wb2RjYXN0Lnh5eXAuYXBwL2Rldi1ub3RlL2ZlZWRz&quot;&gt;Google Podcasts&lt;/a&gt; |
+&lt;a href=&quot;https://open.spotify.com/show/5C5urCAsdXGE0KMNo6rY6h&quot;&gt;Spotify&lt;/a&gt; | &lt;a href=&quot;https://www.stitcher.com/s?fid=380783&quot;&gt;Stitcher&lt;/a&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;Подкаст дээр дурьдагдсан зүйлс:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.python.org/&quot;&gt;Python programming language&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://code.visualstudio.com&quot;&gt;vscode&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://prettier.io/&quot;&gt;prettier&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Single-page_application&quot;&gt;SPA&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://eslint.org/&quot;&gt;eslint&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.typescriptlang.org/&quot;&gt;typescript&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://nextjs.org&quot;&gt;nextjs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://v8.dev/&quot;&gt;v8&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/API/History&quot;&gt;History API&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://developers.google.com/web/fundamentals/primers/service-workers/&quot;&gt;Service Worker&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+            <itunes:explicit>No</itunes:explicit>
+            <itunes:duration>3443</itunes:duration>
+            <itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/2229322/2229322-1567251243786-76dd5043f99e3.jpg" />
+            <itunes:season>1</itunes:season>
+            <itunes:episode>1</itunes:episode>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+    </channel>
+</rss>
